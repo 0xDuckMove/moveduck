@@ -1,0 +1,6 @@
+[submodule "moveduck-extension"]
+	path = moveduck-extension
+	url = https://github.com/0xDuckMove/moveduck-extension
+[submodule "moveduck-backend"]
+	path = moveduck-backend
+	url = https://github.com/phuquiivo03/movestack-backend
