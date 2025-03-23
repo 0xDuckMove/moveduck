@@ -7,3 +7,9 @@
 [submodule "moveduck-client"]
 	path = moveduck-client
 	url = https://github.com/Weminal-labs/moveduck
+[submodule "moveduck-agent-deploy"]
+	path = moveduck-agent-deploy
+	url = https://github.com/AnhQuan2004/moveduck_agent_deploy
+[submodule "moveduck-agent-kit"]
+	path = moveduck-agent-kit
+	url = https://github.com/AnhQuan2004/moveduck_agent.git
