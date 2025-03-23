@@ -4,3 +4,6 @@
 [submodule "moveduck-backend"]
 	path = moveduck-backend
 	url = https://github.com/phuquiivo03/movestack-backend
+[submodule "moveduck-client"]
+	path = moveduck-client
+	url = https://github.com/Weminal-labs/moveduck
